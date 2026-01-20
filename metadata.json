@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PassPortScan Pro",
+  "description": "A high-performance passport OCR application that extracts vital information from passport images and PDFs using Gemini 3.0 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
